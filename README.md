@@ -1,2 +1,4 @@
-# docker-apache-ssl
-Docker Container with Apache 2 that just serves static files with/without SSL
+# Docker with Apache 
+## It serves static files with or without SSL
+
+
